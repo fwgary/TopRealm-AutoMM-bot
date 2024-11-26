@@ -1,0 +1,67 @@
+{
+    "guilds": {
+        "1267528622185381930": {
+            "badges": "</> Developer",
+            "scammer": "False",
+            "scammerreason": "None",
+            "deals": 6,
+            "amount": 1.4654864200000002
+        },
+        "1189019092263383064": {
+            "badges": [],
+            "scammer": "False",
+            "scammerreason": "None",
+            "deals": 0,
+            "amount": 0
+        },
+        "1184909333289521194": {
+            "badges": [],
+            "scammer": "False",
+            "scammerreason": "None",
+            "deals": 0,
+            "amount": 0
+        },
+        "742511425418690601": {
+            "badges": [],
+            "scammer": "False",
+            "scammerreason": "None",
+            "deals": 0,
+            "amount": 0
+        },
+        "1249010155308449905": {
+            "badges": [],
+            "scammer": "True",
+            "scammerreason": "breach of agreement",
+            "deals": 0,
+            "amount": 0
+        },
+        "1269028347715780608": {
+            "badges": [],
+            "scammer": "True",
+            "scammerreason": "breach of agreement",
+            "deals": 0,
+            "amount": 0
+        },
+        "963520999675035659": {
+            "badges": [],
+            "scammer": "False",
+            "scammerreason": "None",
+            "deals": 0,
+            "amount": 0
+        },
+        "766665610049486868": {
+            "badges": [],
+            "scammer": "False",
+            "scammerreason": "None",
+            "deals": 0,
+            "amount": 0
+        },
+        "1110316514093052005": {
+            "badges": "Owner",
+            "scammer": "False",
+            "scammerreason": "None",
+            "deals": 1,
+            "amount": 0.1
+        }
+    }
+}
